@@ -1,3 +1,3 @@
-yarn add waffle mocha
-yarn build
-yarn test
+yarn add waffle mocha;  
+yarn build;  
+yarn test;  
